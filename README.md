@@ -4,14 +4,14 @@ Perkenalkan nama saya **Muhammad Izdihar Alwin**.\
 Saya seorang **Mahasiswa** di [UPN "Veteran" Jawa Timur](https://www.upnjatim.ac.id/).\
 Saya juga memiliki [Google Scholar](https://scholar.google.com/citations?user=SUPBB8wAAAAJ&hl=id).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-izdihar-alwin-848461229/)ku ya.
-- More About Me [izdiharalwin](https://linktr.ee/izdiharalwin).\
-
+- More About Me [izdiharalwin](https://linktr.ee/izdiharalwin).
 <p align="left">
-<a href="https://github.com/gilangadhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/izdiharalwin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izdiharalwin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izdiharalwin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![ezgif-4-f86763a4ac](https://user-images.githubusercontent.com/76778988/156926754-014f4f8e-1e2f-4578-8193-8897f8734f22.gif)
 
-![Tes](https://www.youtube.com/watch?v=9yNOOROD2HE)
+<div align="center" justify-content="center" display="flex">
+  <img width="100%" src="https://user-images.githubusercontent.com/76778988/156926854-dbfb0c11-2d4c-408a-a93a-1e12958d87b5.gif"/>
+</div>
