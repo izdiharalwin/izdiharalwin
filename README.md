@@ -12,3 +12,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![ezgif-4-f86763a4ac](https://user-images.githubusercontent.com/76778988/156926754-014f4f8e-1e2f-4578-8193-8897f8734f22.gif)
+
+![Tes](https://www.youtube.com/watch?v=9yNOOROD2HE)
