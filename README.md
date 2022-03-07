@@ -10,16 +10,16 @@
 </p>
 
 <p  align="center">
-<a  href=""  target="_blank">
-<img  align="center"  src="https://img.icons8.com/clouds/344/instagram-new--v3.png" height="65"  width="65"  /></a>
-<a  href=""  target="_blank">
-<img  align="center"  src="https://img.icons8.com/clouds/344/linkedin.png" height="65"  width="65"  /></a>
+<a  href="https://www.instagram.com/izdiharalwin"  target="_blank">
+<img  align="center"  src="https://img.icons8.com/clouds/344/instagram-new--v3.png" height="65"  width="65" alt="Instagram"  /></a>
+<a  href="https://www.linkedin.com/in/muhammad-izdihar-alwin-848461229/"  target="_blank">
+<img  align="center"  src="https://img.icons8.com/clouds/344/linkedin.png" height="65"  width="65" alt="Linkedin" /></a>
 <a href="mailto:izdihar.alwin2@gmail.com" target="_blank">
-<img  align="center"  src="https://img.icons8.com/clouds/344/gmail-new.png"  height="65"  width="65"  /></a>
+<img  align="center"  src="https://img.icons8.com/clouds/344/gmail-new.png"  height="65"  width="65" alt="Email" /></a>
 <a href="https://dsc.gg/flouws" target="_blank">
-<img  align="center"  src="https://img.icons8.com/clouds/344/discord-logo.png"  height="65"  width="65"  /></a>  
-<a href="" target="_blank">
-<img  align="center"  src="https://img.icons8.com/clouds/344/monitor.png"  height="65"  width="65"  /></a>
+<img  align="center"  src="https://img.icons8.com/clouds/344/discord-logo.png"  height="65"  width="65" alt="Flouws Discord"  /></a>  
+<a href="https://linktr.ee/izdiharalwin" target="_blank">
+<img  align="center"  src="https://img.icons8.com/clouds/344/monitor.png"  height="65"  width="65" alt="Linktree" /></a>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izdiharalwin&label=Profile%20views&color=129e00&style=plastic" alt="izdiharalwin" />
 
