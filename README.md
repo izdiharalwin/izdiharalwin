@@ -14,5 +14,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 
 <div align="center" justify-content="center" display="flex">
-  <img width="100%" src="https://user-images.githubusercontent.com/76778988/156926854-dbfb0c11-2d4c-408a-a93a-1e12958d87b5.gif"/>
+  <img src="https://user-images.githubusercontent.com/76778988/156988518-10c990a3-935f-4cf7-b3ac-26faa2488248.gif"/>
 </div>
